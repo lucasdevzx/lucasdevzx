@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src=https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif alt="Texto alternativo para a imagem" width="500px" />
+      <img src=https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif alt="Texto alternativo para a imagem" width="250px" />
     </td>
     <td valign="top">
     <h1>Sobre mim
