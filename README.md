@@ -10,16 +10,36 @@
 
 ---
 
-  <!-- Foto à direita -->
-  <div align="right" style="flex-shrink: 0;">
-    <img 
-      src="https://giffiles.alphacoders.com/220/220233.gif" 
-      alt="Tech Side Image"
-      width="300"
-      height="300"
-      style="border-radius: 10px; object-fit: cover;"
-    />
-  </div>
+
+
+<img 
+  align="right" 
+  alt="" 
+  height="300px" 
+  src="https://giffiles.alphacoders.com/220/220233.gif"
+/>
+
+<h3>
+  • Sobre mim
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTNycXRzazJwMGQybDZwcXJzemZwMHA2cG1lbjlkNThtd3J2c2IydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/200.gif" 
+    alt="Technology Network"
+    width="30"
+    height="30"
+    style="vertical-align: middle; margin-left: 8px;"
+  />
+</h3>
+
+<p align="left">  asdasd
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3>
   • Tecnologias Utilizadas
