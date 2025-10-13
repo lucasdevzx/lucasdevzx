@@ -86,7 +86,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/zlukenfps/)
   [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](meudc)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5522997117802)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](meulinkdin)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-barreto-ba1451268/)
 
 
 ---
