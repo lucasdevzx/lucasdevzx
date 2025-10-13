@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=✮⋆˙Hello%2C+Welcome+to+my+Profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1&color=F7F7F7&width=650&lines=Hello+worl-;%E2%9C%AE%E2%8B%86%CB%99Hello%2C+Welcome+to+my+Profile" />
   </a>
 </p>
 
@@ -12,11 +12,40 @@
   align="right" 
   alt="" 
   height="300px" 
-  src="https://i.gifer.com/1i8k.gif"
+  src="https://i.pinimg.com/originals/a5/0c/98/a50c988565051c62e9315b8b591f877f.gif"
 />
 
 <h3>
   • Sobre mim
+  <img 
+    src="https://cdn3.emoji.gg/emojis/9951-whitestar.gif" 
+    alt="White Star"
+    width="10"
+    height="20"
+    style="vertical-align: middle; margin-left: 8px;"
+  />
+</h3>
+
+
+<p align="left">
+  <ul>
+    - 👋 Olá, eu sou o Lucas! Aqui compartilho os meus projetos e progressão com o mundo da programação e tecnologia.<br>
+    - 🏁 Iniciei os meus estudos em programação pela curiosidade de como sistemas complexos funcionam e de como a estrutura tecnológica atual é construida, além da minha paixão por jogos.<br>
+    - 🌱 Atualmente sou um estudante que busca aprender e compreender conhecimentos sobre sistemas e tecnologia, aplicando os em projetos pessoais. Busco aprimorar minha lógica e organização.<br>
+    - 🎯 Meu objetivo com meus aprendizados é me tornar um desenvolvedor competente que compreende como e onde eu posso utilizar ferramentas adequadas para a construção de projetos sustentáveis e eficientes. Pretendo cursar Ciência da Computação.<br>
+  </ul>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3>
+  • Experiência Profissional
   <img 
     src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTNycXRzazJwMGQybDZwcXJzemZwMHA2cG1lbjlkNThtd3J2c2IydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/200.gif" 
     alt="Technology Network"
@@ -25,17 +54,6 @@
     style="vertical-align: middle; margin-left: 8px;"
   />
 </h3>
-
-<p align="left">  asdasd
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h3>
   • Tecnologias Utilizadas
