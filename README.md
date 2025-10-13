@@ -73,21 +73,17 @@
 
 
 <h3>📊 GitHub Stats</h3>
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
-  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasdevzx&theme=github_dark" alt="stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasdevzx&theme=github_dark" alt="languages" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasdevzx&theme=github_dark&utcOffset=8" alt="productive time" />
-  </div>
+<div align="center">
 
-  <br>
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasdevzx&theme=github_dark" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasdevzx&theme=github_dark" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasdevzx&theme=github_dark&utcOffset=8" /> |
+| - | - | - |
 
-  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdevzx&theme=github_dark" alt="profile details" />
-  </div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdevzx&theme=github_dark" />
 
 </div>
+
+
 
 
 
