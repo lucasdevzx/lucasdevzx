@@ -75,7 +75,16 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdevzx&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdevzx&theme=tokyonight" />
-</p>
+<div align="center" style="background-color:#000; padding:20px;">
+
+  | <img src="https://github-readme-stats.vercel.app/api?username=lucasdevzx&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdevzx&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" /> |
+  | :-: | :-: |
+
+  | <img src="https://github-readme-streak-stats.herokuapp.com?user=lucasdevzx&theme=highcontrast&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF" /> |
+  | :-: |
+
+</div>
+
+
+
+
