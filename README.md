@@ -1,22 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1c1f26,100:2c313a&section=header" width="100%"/>
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=✮⋆˙Hello%2C+Welcome+to+my+Profile" alt="Typing SVG" />
   </a>
 </p>
 
-
 ---
-
-
 
 <img 
   align="right" 
   alt="" 
   height="300px" 
-  src="https://giffiles.alphacoders.com/220/220233.gif"
+  src="https://i.gifer.com/1i8k.gif"
 />
 
 <h3>
@@ -70,7 +66,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="IntelliJ IDEA logo" />
   </div>
 
-
 <h3>
   • Entre em Contato
   <img 
@@ -112,15 +107,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1c1f26,100:2c313a&section=footer" width="100%"/>
-
-
-
-
-
-
-
-
-
-
-
-
