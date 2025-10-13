@@ -1,25 +1,24 @@
+<br>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=✮⋆˙Hello%2C+Welcome+to+my+Profile" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
       src="https://i.pinimg.com/1200x/bf/0d/13/bf0d1362ee902212a27d53572093590c.jpg" 
       alt="Banner"
       width="1100"
-      height="300"
+      height="250"
       style="object-fit: cover; border-radius: 10px;"
     />
   </a>
 </p>
 
 
-<br>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hello%2C+Welcome+to+my+Profile" alt="Typing SVG" />
-  </a>
-</p>
-
-<br>
 
 <!-- ✨ Seções alinhadas à esquerda -->
 <h3>💡 About Me</h3>
@@ -32,9 +31,26 @@
 
 <h3>🛠️ Tech Stack</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,git,github,linux,vscode,idea" alt="Tech Stack" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="IntelliJ IDEA logo" />
+</div>
+
+
+
 
 <br>
 
