@@ -39,31 +39,13 @@
   </ul>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<h3>
-  • Experiência Profissional
-  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTNycXRzazJwMGQybDZwcXJzemZwMHA2cG1lbjlkNThtd3J2c2IydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/200.gif" 
-    alt="Technology Network"
-    width="30"
-    height="30"
-    style="vertical-align: middle; margin-left: 8px;"
-  />
-</h3>
 
 <h3>
   • Tecnologias Utilizadas
   <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTNycXRzazJwMGQybDZwcXJzemZwMHA2cG1lbjlkNThtd3J2c2IydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/200.gif" 
+    src="https://i.pinimg.com/originals/3a/31/b5/3a31b582c729fcddc9a077d4dfba4d69.gif" 
     alt="Technology Network"
-    width="30"
+    width="20"
     height="30"
     style="vertical-align: middle; margin-left: 8px;"
   />
