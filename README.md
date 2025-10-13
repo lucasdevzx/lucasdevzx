@@ -1,4 +1,5 @@
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1c1f26,100:2c313a&section=header" width="100%"/>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,21 +7,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://i.pinimg.com/1200x/bf/0d/13/bf0d1362ee902212a27d53572093590c.jpg" 
-      alt="Banner"
-      width="1100"
-      height="200"
-      style="object-fit: cover; border-radius: 10px;"
-    />
-  </a>
-</p>
 
 ---
-<br>
-
 
   <!-- Foto à direita -->
   <div align="right" style="flex-shrink: 0;">
@@ -102,6 +90,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdevzx&theme=github_dark" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1c1f26,100:2c313a&section=footer" width="100%"/>
+
 
 
 
