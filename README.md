@@ -18,23 +18,32 @@
   </a>
 </p>
 
-
-<!-- ✨ Seções alinhadas à esquerda -->
-<h3>💡 About Me</h3>
-
-<p>
-  ...
-</p>
-
 ---
-
-<h3>🛠️ Tech Stack</h3>
-
+<br>
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <!-- Foto à direita -->
+  <div align="right" style="flex-shrink: 0;">
+    <img 
+      src="https://giffiles.alphacoders.com/220/220233.gif" 
+      alt="Tech Side Image"
+      width="300"
+      height="300"
+      style="border-radius: 10px; object-fit: cover;"
+    />
+  </div>
 
-  <!-- Ícones da stack -->
+<h3>
+  • Tecnologias Utilizadas
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTNycXRzazJwMGQybDZwcXJzemZwMHA2cG1lbjlkNThtd3J2c2IydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/200.gif" 
+    alt="Technology Network"
+    width="30"
+    height="30"
+    style="vertical-align: middle; margin-left: 8px;"
+  />
+</h3>
+    
   <div align="left" style="flex: 1; min-width: 300px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java logo" />
     <img width="10" />
@@ -53,26 +62,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="IntelliJ IDEA logo" />
   </div>
 
-  <!-- Foto à direita -->
-  <div align="right" style="flex-shrink: 0;">
-    <img 
-      src="https://giffiles.alphacoders.com/220/220233.gif" 
-      alt="Tech Side Image"
-      width="300"
-      height="300"
-      style="border-radius: 10px; object-fit: cover;"
-    />
-  </div>
 
-  <h3>
+<h3>
+  • Entre em Contato
   <img 
-    src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" 
-    alt="GitHub Logo"
+    src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTNycXRzazJwMGQybDZwcXJzemZwMHA2cG1lbjlkNThtd3J2c2IydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/200.gif" 
+    alt="Technology Network"
     width="30"
     height="30"
-    style="vertical-align: middle; margin-right: 8px;"
+    style="vertical-align: middle; margin-left: 8px;"
   />
-   Entre em contato
 </h3>
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:silvalucas.me.contact@gmail.com)
@@ -81,23 +80,19 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5522997117802)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](meulinkdin)
 
-</div>
-
-</div>
 
 ---
 
 <h3>
+  • GitHub Estastísticas
   <img 
     src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" 
     alt="GitHub Logo"
     width="30"
     height="30"
-    style="vertical-align: middle; margin-right: 8px;"
+    style="vertical-align: middle; margin-left: 8px;"
   />
-   GitHub Statistics
 </h3>
-
 
 <div align="center">
 
