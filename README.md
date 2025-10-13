@@ -64,7 +64,16 @@
     />
   </div>
 
-  ENTRE EM CONTATO
+  <h3>
+  <img 
+    src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" 
+    alt="GitHub Logo"
+    width="30"
+    height="30"
+    style="vertical-align: middle; margin-right: 8px;"
+  />
+   Entre em contato
+</h3>
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:silvalucas.me.contact@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/zlukenfps/)
@@ -75,10 +84,6 @@
 </div>
 
 </div>
-
-
-
-<br>
 
 ---
 
