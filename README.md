@@ -5,7 +5,6 @@
 </p>
 
 <br>
-<br>
 
 <!-- ✨ Seções alinhadas à esquerda -->
 <h3>💡 About Me</h3>
