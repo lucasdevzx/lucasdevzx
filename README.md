@@ -4,6 +4,48 @@
   </a>
 </p>
 
+<br>
+<br>
+
+<!-- ✨ Seções alinhadas à esquerda -->
+<h3>💡 About Me</h3>
+
+<p>
+  ...
+</p>
+
+---
+
+<h3>🛠️ Tech Stack</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,git,github,linux,vscode,idea" alt="Tech Stack" />
+</p>
+
+<br>
+
+---
 
 
-# SOBRE MIM 
+<h3>🌐 Connect with me</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/SeuUsuario/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:silva.lucas.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+---
+
+
+<h3>📊 GitHub Stats</h3>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdevzx&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdevzx&theme=tokyonight" />
+</p>
