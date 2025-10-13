@@ -12,7 +12,7 @@
       src="https://i.pinimg.com/1200x/bf/0d/13/bf0d1362ee902212a27d53572093590c.jpg" 
       alt="Banner"
       width="1100"
-      height="250"
+      height="200"
       style="object-fit: cover; border-radius: 10px;"
     />
   </a>
