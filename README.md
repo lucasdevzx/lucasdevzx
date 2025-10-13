@@ -19,7 +19,6 @@
 </p>
 
 
-
 <!-- ✨ Seções alinhadas à esquerda -->
 <h3>💡 About Me</h3>
 
@@ -74,16 +73,26 @@
 
 
 <h3>📊 GitHub Stats</h3>
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
-<div align="center" style="background-color:#000; padding:20px;">
+  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasdevzx&theme=github_dark" alt="stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasdevzx&theme=github_dark" alt="languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasdevzx&theme=github_dark&utcOffset=8" alt="productive time" />
+  </div>
 
-  | <img src="https://github-readme-stats.vercel.app/api?username=lucasdevzx&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdevzx&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" /> |
-  | :-: | :-: |
+  <br>
 
-  | <img src="https://github-readme-streak-stats.herokuapp.com?user=lucasdevzx&theme=highcontrast&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF" /> |
-  | :-: |
+  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdevzx&theme=github_dark" alt="profile details" />
+  </div>
 
 </div>
+
+
+
+
+
 
 
 
