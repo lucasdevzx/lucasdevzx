@@ -44,13 +44,6 @@
 
 <h3>
   • Tecnologias Utilizadas
-  <img 
-    src="https://i.pinimg.com/originals/3a/31/b5/3a31b582c729fcddc9a077d4dfba4d69.gif" 
-    alt="Technology Network"
-    width="20"
-    height="30"
-    style="vertical-align: middle; margin-left: 8px;"
-  />
 </h3>
     
   <div align="left" style="flex: 1; min-width: 300px;">
