@@ -32,7 +32,7 @@
     <br>
     - 👋 Olá, eu sou o Lucas! Aqui compartilho os meus projetos e progressão com o mundo da programação e tecnologia.<br>
     <br>
-    - 🏁 Iniciei os meus estudos em programação pela curiosidade de saber como sistemas complexos funcionam e de como a estrutura tecnológica atual é construida, além da minha paixão por jogos.<br>
+    - 🏁 Iniciei os meus estudos em programação pela curiosidade de entender como sistemas complexos funcionam e de como a estrutura tecnológica atual é construida, além da minha paixão por jogos.<br>
     <br>
     - 🌱 Atualmente sou um estudante que busca aprender e compreender conhecimentos sobre sistemas e tecnologia, aplicando os em projetos pessoais. Busco aprimorar minha lógica e organização.<br>
     <br>
