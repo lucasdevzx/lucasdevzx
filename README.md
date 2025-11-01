@@ -65,7 +65,7 @@
   </div>
 
 <h3>
-  • Entre em Contato
+  • Entre em Contato.
   <img 
     src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTNycXRzazJwMGQybDZwcXJzemZwMHA2cG1lbjlkNThtd3J2c2IydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/200.gif" 
     alt="Technology Network"
