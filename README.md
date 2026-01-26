@@ -40,7 +40,6 @@
     <br>
   </ul>
 
-<br>
 
 <h3>
   • Tecnologias Utilizadas
