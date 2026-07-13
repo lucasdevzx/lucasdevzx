@@ -8,13 +8,6 @@
 
 ---
 
-<img 
-  align="right" 
-  alt="" 
-  height="300px" 
-  src="https://i.pinimg.com/originals/a5/0c/98/a50c988565051c62e9315b8b591f877f.gif"
-/>
-
 <h3>
   • Sobre mim
   <img 
