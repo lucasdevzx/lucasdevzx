@@ -29,7 +29,7 @@
     <br>
     • 🌱 Atualmente sou um estudante de Ciência da Computação que busca aprender e compreender conceitos sobre sistemas e tecnologia, aplicando-os em projetos pessoais. Busco aprimorar minha lógica e organização.<br>
     <br>
-    • 🎯 Meu objetivo é me tornar um desenvolvedor competente que compreende como e onde eu posso utilizar ferramentas adequadas para a construção de projetos sustentáveis e eficientes.<br> 
+    • 🎯 Meu objetivo é me tornar um desenvolvedor competente que compreende com e onde eu posso utilizar ferramentas adequadas para a construção de projetos sustentáveis e eficientes.<br> 
     <br>
   </ul>
 
