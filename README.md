@@ -13,7 +13,7 @@
   <img 
     src="https://cdn3.emoji.gg/emojis/9951-whitestar.gif" 
     alt="White Star"
-    width="10
+    width="10"
     height="20"
     style="vertical-align: middle; margin-left: 8px;"
   />
