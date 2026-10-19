@@ -9,7 +9,7 @@
 ---
 
 <h3>
-  • Sobre mi
+  • Sobre mim
   <img 
     src="https://cdn3.emoji.gg/emojis/9951-whitestar.gif" 
     alt="White Star"
