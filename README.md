@@ -35,7 +35,7 @@
 
 
 <h3>
-  • Tecnologias Utilizada
+  • Tecnologias Utilizadas
 </h3>
     
 <div align="left" style="flex: 1; min-width: 300px;">
